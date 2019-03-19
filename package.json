@@ -42,7 +42,7 @@
   },
   "homepage": "https://github.com/jaebradley/tinder-access-token-generator#readme",
   "dependencies": {
-    "@babel/runtime": "^7.3.1",
+    "@babel/runtime": "^7.4.0",
     "axios": "^0.18.0",
     "puppeteer": "^1.12.2"
   },
